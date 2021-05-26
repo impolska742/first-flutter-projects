@@ -10,9 +10,9 @@ void main() {
               'I am Poor',
             ),
           ),
-          backgroundColor: Colors.redAccent,
+          backgroundColor: Colors.blueGrey[900],
         ),
-        backgroundColor: Colors.redAccent[100],
+        backgroundColor: Colors.white,
         body: Center(
           child: Image(
             image: AssetImage(
